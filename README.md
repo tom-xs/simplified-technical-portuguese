@@ -36,7 +36,7 @@ scripts/
 ### Via Skills CLI (recommended)
 
 ```bash
-npx skills add <user>/technical-brazilian-portuguese
+npx skills add tom-xs/simplified-technical-portuguese
 ```
 
 ### Manual installation
@@ -44,7 +44,7 @@ npx skills add <user>/technical-brazilian-portuguese
 Copy the directory to your agent's skills folder:
 
 ```bash
-git clone https://github.com/<user>/technical-brazilian-portuguese.git
+git clone https://github.com/tom-xs/simplified-technical-portuguese.git
 cp -r technical-brazilian-portuguese ~/.agents/skills/
 ```
 

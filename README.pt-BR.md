@@ -42,7 +42,7 @@ npx skills add <usuario>/technical-brazilian-portuguese
 Copie o diretório para a pasta de skills do seu agente:
 
 ```bash
-git clone https://github.com/<usuario>/technical-brazilian-portuguese.git
+git clone https://github.com/tom-xs/simplified-technical-portuguese.git
 cp -r technical-brazilian-portuguese ~/.agents/skills/
 ```
 
